@@ -1,0 +1,30 @@
+.main-nav {
+  border-bottom: .2rem solid rgba(87,164,179);
+}
+
+.navbar img {
+  height: 3rem;
+}
+
+.main-header {
+  min-height: 100vh;
+  background-image: linear-gradient(rgba(87,164,179,0.7), rgba(87,164,179,0.7)) 
+  ,url(../images/mountains.jpg);
+  
+}
+
+.card-img-top {
+  top: -15%;
+  left: 50%;
+  transform: translatex(-50%);
+  width: 8rem;
+}
+
+footer a {
+  color: white;
+}
+
+footer a:hover {
+  text-decoration: none;
+}
+
